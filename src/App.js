@@ -3,9 +3,6 @@ import {fetchWords} from "./service/WordService";
 import {useEffect, useState} from "react";
 import axios, {options} from "axios";
 import { render } from 'react-dom';
-import { transitions, positions, Provider as AlertProvider } from 'react-alert';
-import AlertTemplate from 'react-alert-template-oldschool-dark';
-import { useAlert } from 'react-alert';
 
 
 function App() {

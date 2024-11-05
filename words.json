@@ -1,0 +1,452 @@
+[
+{
+  "word_kanji": "会う ",
+  "word_furagana": "あう",
+  "word_english": "to meet"
+},{
+  "word_kanji": "開く ",
+  "word_furagana": "あく",
+  "word_english": "to open"
+},{
+  "word_kanji": "開ける ",
+  "word_furagana": "あける",
+  "word_english": "to open"
+},
+  {
+  "word_kanji": "(no kanji) ",
+  "word_furagana": "あげる",
+  "word_english": "to give "
+},
+  {
+    "word_kanji": "遊ぶ  ",
+    "word_furagana": "あそぶ",
+    "word_english": "to play"
+  },
+  {
+    "word_kanji": "浴びる  ",
+    "word_furagana": "あびる",
+    "word_english": "to take a shower"
+  },
+  {
+    "word_kanji": "洗う  ",
+    "word_furagana": "あらう",
+    "word_english": "to wash"
+  },
+  {
+    "word_kanji": "有る",
+    "word_furagana": "ある",
+    "word_english": "to be, to exist"
+  },
+  {
+    "word_kanji": "ある",
+    "word_furagana": "ある",
+    "word_english": "to possess "
+  },
+  {
+    "word_kanji": "歩く",
+    "word_furagana": "あるく ",
+    "word_english": "to walk"
+  },
+  {
+    "word_kanji": "言う ",
+    "word_furagana": "いう",
+    "word_english": "to say, to tell "
+  },
+  {
+    "word_kanji": "行く",
+    "word_furagana": "いく",
+    "word_english": "to go"
+  },
+  {
+    "word_kanji": "いる",
+    "word_furagana": "いる",
+    "word_english": "to exist"
+  },
+  {
+    "word_kanji": "入れる",
+    "word_furagana": "いれる ",
+    "word_english": "to insert, to put in "
+  },
+  {
+    "word_kanji": "歌う",
+    "word_furagana": "うたう",
+    "word_english": "to sing "
+  },
+  {
+    "word_kanji": "生まれる",
+    "word_furagana": "うまれる ",
+    "word_english": "to be born"
+  },
+  {
+    "word_kanji": "売る ",
+    "word_furagana": "うる ",
+    "word_english": "to sell "
+  },
+  {
+    "word_kanji": "起きる",
+    "word_furagana": "おきる ",
+    "word_english": "to get up, to stand up"
+  },
+  {
+    "word_kanji": "おく",
+    "word_furagana": "おく",
+    "word_english": "to put"
+  },
+  {
+    "word_kanji": "送る",
+    "word_furagana": "おくる",
+    "word_english": "to send"
+  },
+  {
+    "word_kanji": "押す",
+    "word_furagana": "おす",
+    "word_english": "to push "
+  },
+  {
+    "word_kanji": "覚える ",
+    "word_furagana": "おぼえる ",
+    "word_english": "to memorize, to remember"
+  },
+  {
+    "word_kanji": "泳ぐ ",
+    "word_furagana": "およぐ ",
+    "word_english": "to swim"
+  },
+  {
+    "word_kanji": "降りる ",
+    "word_furagana": "おりる",
+    "word_english": "to get off"
+  },
+  {
+    "word_kanji": "終わる ",
+    "word_furagana": "おわる",
+    "word_english": "to end "
+  },
+  {
+    "word_kanji": "買う",
+    "word_furagana": "かう",
+    "word_english": "to buy"
+  },
+  {
+    "word_kanji": "返す",
+    "word_furagana": "かえす",
+    "word_english": "to return"
+  },
+  {
+    "word_kanji": "帰る ",
+    "word_furagana": "かえる",
+    "word_english": "to return home "
+  },
+  {
+    "word_kanji": "かかる",
+    "word_furagana": "かかる",
+    "word_english": "to take time or money"
+  },
+  {
+    "word_kanji": "書く",
+    "word_furagana": "かく",
+    "word_english": "to write "
+  },
+  {
+    "word_kanji": "かける",
+    "word_furagana": "かける",
+    "word_english": "to wear"
+  },
+  {
+    "word_kanji": "貸す ",
+    "word_furagana": "かす",
+    "word_english": "to lend"
+  },
+  {
+    "word_kanji": "冠る ",
+    "word_furagana": "かぶる",
+    "word_english": "to put on a hat"
+  },
+  {
+    "word_kanji": "借りる",
+    "word_furagana": "かりる",
+    "word_english": "to borrow"
+  },
+  {
+    "word_kanji": "消える",
+    "word_furagana": "きえる",
+    "word_english": "to go out, to vanish"
+  },
+  {
+    "word_kanji": "聞く",
+    "word_furagana": "きく",
+    "word_english": "to listen"
+  },
+  {
+    "word_kanji": "切る",
+    "word_furagana": "きる",
+    "word_english": "to cut "
+  },
+  {
+    "word_kanji": "着る",
+    "word_furagana": "きる",
+    "word_english":["to wear, to put on"]
+  },
+  {
+    "word_kanji": "来る",
+    "word_furagana": "くる",
+    "word_english": "to come"
+  },
+  {
+    "word_kanji": "消す",
+    "word_furagana": "けす",
+    "word_english": "to turn off, to switch off "
+  },
+  {
+    "word_kanji": "答える ",
+    "word_furagana": "こたえる",
+    "word_english": "to answer"
+  },
+  {
+    "word_kanji": "困る",
+    "word_furagana": "こまる",
+    "word_english": "to be in trouble"
+  },
+  {
+    "word_kanji": "咲く",
+    "word_furagana": "さく",
+    "word_english": "to blossom"
+  },
+  {
+    "word_kanji": "さす",
+    "word_furagana": "さす",
+    "word_english": "to open an umbrella "
+  },
+  {
+    "word_kanji": "死ぬ",
+    "word_furagana": "しぬ",
+    "word_english": "to die"
+  },
+  {
+    "word_kanji": "閉まる",
+    "word_furagana": "しまる",
+    "word_english": "to close"
+  },
+  {
+    "word_kanji": "閉める ",
+    "word_furagana": "しめる",
+    "word_english": "to close"
+  },
+  {
+    "word_kanji": "締める",
+    "word_furagana": "しめる ",
+    "word_english": "to fasten a belt"
+  },
+  {
+    "word_kanji": "知る ",
+    "word_furagana": "しる",
+    "word_english": "to know"
+  },
+  {
+    "word_kanji": "吸う",
+    "word_furagana": "すう",
+    "word_english": "to breath, to smoke"
+  },
+  {
+    "word_kanji": "住む",
+    "word_furagana": "すむ",
+    "word_english": "to live, to reside somewhere"
+  },
+  {
+    "word_kanji": "する",
+    "word_furagana": "する",
+    "word_english": "to do"
+  },
+  {
+    "word_kanji": "座る",
+    "word_furagana": "すわる",
+    "word_english": "to sit "
+  },
+  {
+    "word_kanji": "出す ",
+    "word_furagana": "だす",
+    "word_english": "to take out, hand in"
+  },
+  {
+    "word_kanji": "立つ",
+    "word_furagana": "たつ",
+    "word_english": "to stand "
+  },
+  {
+    "word_kanji": "頼む",
+    "word_furagana": "たのむ",
+    "word_english": "to ask, to request"
+  },
+  {
+    "word_kanji": "違う",
+    "word_furagana": "ちがう",
+    "word_english": "to be different"
+  },
+  {
+    "word_kanji": "使う",
+    "word_furagana": "つかう",
+    "word_english": "to use"
+  },
+  {
+    "word_kanji": "疲れる",
+    "word_furagana": "つかれる",
+    "word_english": "to get tired"
+  },
+  {
+    "word_kanji": "着く",
+    "word_furagana": "つく",
+    "word_english": "to arrive"
+  },
+  {
+    "word_kanji": "作る ",
+    "word_furagana": "つくる ",
+    "word_english": "to make, to produce "
+  },
+  {
+    "word_kanji": "点ける",
+    "word_furagana": "つける",
+    "word_english": "to turn on "
+  },
+  {
+    "word_kanji": "出かける",
+    "word_furagana": "でかける",
+    "word_english": "to go out"
+  },
+  {
+    "word_kanji": "出来る",
+    "word_furagana": "できる",
+    "word_english": "can do"
+  },
+  {
+    "word_kanji": "出る",
+    "word_furagana": "でる",
+    "word_english": "to leave"
+  },
+  {
+    "word_kanji": "飛ぶ",
+    "word_furagana": "とぶ",
+    "word_english": "to fly"
+  },
+  {
+    "word_kanji": "止まる",
+    "word_furagana": "とまる",
+    "word_english": "to stop "
+  },
+  {
+    "word_kanji": "撮る",
+    "word_furagana": "とる",
+    "word_english": "to take a photo"
+  },
+  {
+    "word_kanji": "並ぶ",
+    "word_furagana": "ならぶ",
+    "word_english": "to form a line"
+  },
+  {
+    "word_kanji": "なる",
+    "word_furagana": "なる",
+    "word_english": "to become "
+  },
+  {
+    "word_kanji": "寝る",
+    "word_furagana": "ねる ",
+    "word_english": "to sleep"
+  },
+  {
+    "word_kanji": "登る",
+    "word_furagana": "のぼる",
+    "word_english": "to climb up"
+  },
+  {
+    "word_kanji": "飲む",
+    "word_furagana": "のむ",
+    "word_english": "to drink"
+  },
+  {
+    "word_kanji": "乗る",
+    "word_furagana": "のる",
+    "word_english": "to ride"
+  },
+  {
+    "word_kanji": "入る",
+    "word_furagana": "はいる",
+    "word_english": "to enter"
+  },
+  {
+    "word_kanji": "始ま",
+    "word_furagana": "はじまる",
+    "word_english": "to begin, to start"
+  },
+  {
+    "word_kanji": "走る",
+    "word_furagana": "はしる",
+    "word_english": "to run"
+  },
+  {
+    "word_kanji": "働く",
+    "word_furagana": "はたらく",
+    "word_english": "to work"
+  },
+  {
+    "word_kanji": "話す",
+    "word_furagana": "はなす",
+    "word_english": "to talk"
+  },
+  {
+    "word_kanji": "晴れる",
+    "word_furagana": "はれる",
+    "word_english": "to clear up"
+  },
+  {
+    "word_kanji": "吹く",
+    "word_furagana": "ふく",
+    "word_english": "to blow (wind"
+  },
+  {
+    "word_kanji": "降る",
+    "word_furagana": "ふる",
+    "word_english": "to fall (rain, snow"
+  },
+  {
+    "word_kanji": "曲がる",
+    "word_furagana": "まがる",
+    "word_english": "to turn"
+  },
+  {
+    "word_kanji": "待つ",
+    "word_furagana": "まつ",
+    "word_english": "to wait"
+  },
+  {
+    "word_kanji": "磨く",
+    "word_furagana": "みがく",
+    "word_english": "to brush"
+  },
+  {
+    "word_kanji": "見る",
+    "word_furagana": "みる",
+    "word_english": "to see"
+  },
+  {
+    "word_kanji": "持つ",
+    "word_furagana": "もつ ",
+    "word_english": "to have, to own"
+  },
+  {
+    "word_kanji": "休む",
+    "word_furagana": "やすむ",
+    "word_english": "to rest"
+  },
+  {
+    "word_kanji": "やる",
+    "word_furagana": "やる",
+    "word_english": "to do"
+  },
+  {
+    "word_kanji": "忘れる",
+    "word_furagana": "わすれる",
+    "word_english": "to forget"
+  }
+
+]
+

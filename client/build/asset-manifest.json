@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.329d5ca8.css",
+    "main.js": "/static/js/main.bc6695ed.js",
+    "static/js/488.5dc00adb.chunk.js": "/static/js/488.5dc00adb.chunk.js",
+    "static/media/sendai_life.png": "/static/media/sendai_life.de88c59736605b429399.png",
+    "static/media/jpn_n5.png": "/static/media/jpn_n5.5c2cf269daaa6c6b7783.png",
+    "index.html": "/index.html",
+    "main.329d5ca8.css.map": "/static/css/main.329d5ca8.css.map",
+    "main.bc6695ed.js.map": "/static/js/main.bc6695ed.js.map",
+    "488.5dc00adb.chunk.js.map": "/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.329d5ca8.css",
+    "static/js/main.bc6695ed.js"
+  ]
+}

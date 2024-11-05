@@ -4,12 +4,12 @@ const app = express();
 const {Mongoose, connect} = require("mongoose");
 const Work_Type = require('./models/Word_Model');
 
-const corsOptions ={
-    origin:'http://localhost:3000',
-    credentials:true,            //access-control-allow-credentials:true
-    optionSuccessStatus:200
-}
-app.use(cors(corsOptions));
+/* CORS ongelman korjaamiseen */
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "X-Requested-With");
+    next();
+});
 app.use(express.json())
 const url = 'mongodb+srv://nuuttiturunen:DUMGLO7BdN2yK9Th@cluster0.szliy4a.mongodb.net/test?retryWrites=true&w=majority';
 
@@ -25,7 +25,6 @@ connect(url)
 app.get('/japanese_words', (request, response) => {
     Work_Type.find({}).then(japanese_words => {
         response.json(japanese_words)
-        console.log(japanese_words)
     })
 })
 
